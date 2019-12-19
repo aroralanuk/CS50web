@@ -1,3 +1,7 @@
 td {
   padding:32px;
 }
+
+#mainpage-top-display{
+  background-image: image("ericssonsFaultWallPaper.jpg");
+}
