@@ -25,6 +25,13 @@ body{
   color: white;
 }
 
+#mainpage-top-display h1{
+  position:absolute;
+  top:0;
+  margin:20px;
+  color: white;
+}
+
 input[type="email"] {
   background-color: rgba(255, 0, 0, 0.2);
 }
